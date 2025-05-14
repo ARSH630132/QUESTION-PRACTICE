@@ -1,6 +1,6 @@
 ## Download the Executable
 
-You can download the Windows executable from the following link:
+You can download the Windows executable from the following link :
 
 [Download main.exe](https://github.com/ARSH630132/QUESTION-PRACTICE/releases/download/v1.0.0/main.exe)
 
