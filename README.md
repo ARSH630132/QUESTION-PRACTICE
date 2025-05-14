@@ -1,22 +1,15 @@
-# Quiz App (Python + Tkinter)
+## Download the Executable
 
-## Introduction
-This is a quiz application built using Python and Tkinter. It allows users to practice various subjects and check their knowledge.
+You can download the Windows executable from the following link:
 
-## How to Run the `.exe`
+[Download main.exe](https://github.com/ARSH630132/QUESTION-PRACTICE/releases/download/v1.0.0/main.exe)
 
-1. Download the [main.exe](https://github.com/YOUR-USERNAME/quiz-gui-app/releases/latest/download/main.exe).
-2. Double-click on `main.exe` to start the quiz app.
+Make sure to check the release notes for details on the version.
 
-## Requirements
+### How to Use:
+1. Download the `.exe` file.
+2. Run the executable to start the application.
 
-- Python 3.x
-- Tkinter library (for GUI)
-
-## How to Run the Python Version
-
-If you want to run the Python version of the app:
-
-1. Clone the repo: `git clone https://github.com/YOUR-USERNAME/quiz-gui-app.git`
-2. Install the dependencies: `pip install -r requirements.txt`
-3. Run the app: `python main.py`
+### Note:
+- This `.exe` file is only for Windows operating systems.
+- Ensure your system has the necessary dependencies installed to run the executable.
